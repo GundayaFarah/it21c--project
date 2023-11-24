@@ -3,7 +3,7 @@ package polymorphism;
 public class Main {
     public static void main(String[] args){
         Polymorphism_Student my_student = new Polymorphism_Student("Jaysash");
-        Polymorphism_Jaysash my_Farah = new Polymorphism_Farah ("Farah");
+        Polymorphism_Farah my_Farah = new Polymorphism_Farah ("Farahh");
         Polymorphism_FM my_FM = new PolymorphismFM ("FM");
         
         my_student.eat();
